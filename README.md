@@ -1,4 +1,4 @@
-# begginer-projects
+# beginner-projects
 This repository contains a collection of simple apps created using JavaScript, HTML, and CSS. Some of the key concepts and methods used in the development of these app include addEventListener(), Math.floor(), Math.random(), toggle(), join(), conditional statements, forEach, etc. Here is a brief description of each app:
 
 Color Flipper:
