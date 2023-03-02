@@ -40,4 +40,7 @@ This app generates random placeholder text. Users select how many paragraphs of 
 Grocery List App:
 This app allows users to create a grocery list by adding items and their corresponding quantities. Users can also edit and delete items from the list.
 
+Super Hero App:
+This app calls the superheroapi.com API to generate random super heros along with their stats. Users can search for specific heros by name as well.
+
 All of these apps are simple and easy to use, making them great tools for beginners learning how to code.
