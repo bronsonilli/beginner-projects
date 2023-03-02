@@ -43,4 +43,7 @@ This app allows users to create a grocery list by adding items and their corresp
 Super Hero App:
 This app calls the superheroapi.com API to generate random super heros along with their stats. Users can search for specific heros by name as well.
 
+Rock Paper Scissors App:
+Fun Game of Rock Paper Scissors!
+
 All of these apps are simple and easy to use, making them great tools for beginners learning how to code.
